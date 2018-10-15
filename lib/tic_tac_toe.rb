@@ -119,4 +119,3 @@ def play(board)
     puts "It has been a draw."
   end
 end
-rspec spec/02_play_spec.rb
